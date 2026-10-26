@@ -1,0 +1,49 @@
+[
+    {
+        "cliente": "Ana Souza",
+        "itens": [
+            {
+                "produto": "X-Burguer",
+                "qtd": 2,
+                "preco": 15.0
+            },
+            {
+                "produto": "Refrigerante lata",
+                "qtd": 1,
+                "preco": 6.5
+            }
+        ],
+        "subtotal": 36.5,
+        "taxa": 5.0,
+        "total": 41.5,
+        "endereco": "Avenida Nossa Senhora de Copacabana, 1200 - Copacabana - Rio de Janeiro/RJ"
+    },
+    {
+        "cliente": "Duda Alves",
+        "itens": [
+            {
+                "produto": "X-Salada",
+                "qtd": 3,
+                "preco": 20.0
+            }
+        ],
+        "subtotal": 60.0,
+        "taxa": 0.0,
+        "total": 60.0,
+        "endereco": "Avenida Nossa Senhora de Copacabana, 45 - Copacabana - Rio de Janeiro/RJ"
+    },
+    {
+        "cliente": "Edu Ramos",
+        "itens": [
+            {
+                "produto": "Combo da casa",
+                "qtd": 2,
+                "preco": 29.9
+            }
+        ],
+        "subtotal": 59.8,
+        "taxa": 0.0,
+        "total": 59.8,
+        "endereco": "Rua Primeiro de Março, 3 - Centro - Rio de Janeiro/RJ"
+    }
+]

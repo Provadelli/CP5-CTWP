@@ -1,0 +1,32 @@
+{
+    "22070011": {
+        "cep": "22070-011",
+        "logradouro": "Avenida Nossa Senhora de Copacabana",
+        "complemento": "de 1109 ao fim - lado ímpar",
+        "unidade": "",
+        "bairro": "Copacabana",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    },
+    "23970000": {
+        "cep": "23970-000",
+        "logradouro": "",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "",
+        "localidade": "Paraty",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3303807",
+        "gia": "",
+        "ddd": "24",
+        "siafi": "5875"
+    }
+}
